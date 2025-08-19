@@ -16,7 +16,7 @@ A professional C++ Windows system monitoring application with real-time process 
 #### Configuration File: `config/SystemMonitor.cfg`
 
 ```ini
-# System Monitoring Thresholds
+# System Monitoring Thresholds.
 CPU_THRESHOLD=80
 RAM_THRESHOLD=80
 DISK_THRESHOLD=80
